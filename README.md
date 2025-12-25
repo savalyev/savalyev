@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi! I’m a beginner developer and I love turning ideas into working code. 
+Right now, I’m learning the basics of programming, working on small projects, and gradually improving my skills in algorithms, Git, and teamwork.
+
+Here, I post educational and pet projects, notes, and experiments — I’d appreciate any feedback and ideas for improvements. I’m open to communication and collaboration: it’s always interesting to get involved in tasks where I can grow and make a contribution. 👋
 
 
 # 💻 Tech Stack:
