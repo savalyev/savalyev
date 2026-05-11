@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SVVVLYXV&fontSize=60&fontColor=4f98a3&fontAlignY=38&desc=Backend%20%2F%20Full-Stack%20Developer&descSize=18&descColor=797876&animation=fadeIn" width="100%" />
-
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25%" />
 <p>
   <a href="https://www.linkedin.com/in/svvvlyxv/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
